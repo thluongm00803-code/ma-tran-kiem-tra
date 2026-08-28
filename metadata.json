@@ -1,0 +1,6 @@
+{
+  "name": "Thiết kế Ma trận & Đề kiểm tra Toán 12 KNTT",
+  "description": "Ứng dụng hỗ trợ giáo viên Toán THPT thiết kế ma trận, bản đặc tả, đề kiểm tra và đáp án hướng dẫn chấm môn Toán 12 SGK Kết nối tri thức với cuộc sống theo GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
